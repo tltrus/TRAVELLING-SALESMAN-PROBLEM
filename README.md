@@ -6,8 +6,8 @@
 C# Annealing algorithm for Travelling salesman problem (TSP) solving.
 
 - Based on article https://habr.com/ru/post/308960/
-- Youtube: 
-- Rutube: 
+- Youtube: https://youtu.be/ryHNV1LMWps
+- Rutube: https://rutube.ru/video/private/44bb2861bf6c6546b0b398593fd6d779/?p=lk94NFKtRQogwBRoYvlS6A
 
 ![image](https://github.com/user-attachments/assets/d2261471-1255-467f-9cb4-1421775fd620)
 
