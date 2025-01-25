@@ -9,7 +9,9 @@ C# Annealing algorithm for Travelling salesman problem (TSP) solving.
 - Youtube: 
 - Rutube: 
 
-- 
+![image](https://github.com/user-attachments/assets/d2261471-1255-467f-9cb4-1421775fd620)
+
+ 
 # TSP-Ant
 
 C# Ant algorithm for Travelling salesman problem (TSP) solving.
