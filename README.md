@@ -1,6 +1,15 @@
 # TRAVELLING-SALESMAN-PROBLEM
  Travelling salesman problem (TSP)
 
+# TSP-Annealing
+
+C# Annealing algorithm for Travelling salesman problem (TSP) solving.
+
+- Based on article https://habr.com/ru/post/308960/
+- Youtube: 
+- Rutube: 
+
+- 
 # TSP-Ant
 
 C# Ant algorithm for Travelling salesman problem (TSP) solving.
