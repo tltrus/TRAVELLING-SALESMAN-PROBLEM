@@ -11,6 +11,13 @@ C# Ant colony algorithm for Travelling salesman problem (TSP) solving.
 
 <img width="971" height="454" alt="image" src="https://github.com/user-attachments/assets/0f79dcf1-936c-42f8-a8dd-4d43c83fdecb" />
 
+# TCP-BeeColony(SBC)
+
+C# Bee colony algorithm for Travelling salesman problem (TSP) solving.
+
+- Based on article: https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/april/msdn-magazine-natural-algorithms-use-bee-colony-algorithms-to-solve-impossible-problems
+- Youtube: 
+- Rutube: 
 
 # TSP-Annealing
 
