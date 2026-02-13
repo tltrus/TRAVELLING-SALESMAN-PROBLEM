@@ -7,7 +7,7 @@ C# Ant colony algorithm for Travelling salesman problem (TSP) solving.
 
 - Based on article: https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/test-run-ant-colony-optimization
 - Youtube: 
-- Rutube: 
+- Rutube: https://rutube.ru/video/fa919cf6b2f8144b3d0d2bb4e243f2a6/
 
 <img width="971" height="454" alt="image" src="https://github.com/user-attachments/assets/0f79dcf1-936c-42f8-a8dd-4d43c83fdecb" />
 
