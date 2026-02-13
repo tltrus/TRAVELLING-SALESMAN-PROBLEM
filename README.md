@@ -17,7 +17,10 @@ C# Bee colony algorithm for Travelling salesman problem (TSP) solving.
 
 - Based on article: https://learn.microsoft.com/en-us/archive/msdn-magazine/2011/april/msdn-magazine-natural-algorithms-use-bee-colony-algorithms-to-solve-impossible-problems
 - Youtube: 
-- Rutube: 
+- Rutube:
+
+<img width="659" height="474" alt="image" src="https://github.com/user-attachments/assets/c4518d01-9982-41f3-b146-d3d074cb2b13" />
+
 
 # TSP-Annealing
 
