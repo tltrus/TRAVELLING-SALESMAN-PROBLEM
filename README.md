@@ -1,6 +1,17 @@
 # TRAVELLING-SALESMAN-PROBLEM
  Travelling salesman problem (TSP)
 
+# TCP-AntColonyOptim(ACO)
+
+C# Ant colony algorithm for Travelling salesman problem (TSP) solving.
+
+- Based on article: https://learn.microsoft.com/en-us/archive/msdn-magazine/2012/february/test-run-ant-colony-optimization
+- Youtube: 
+- Rutube: 
+
+<img width="971" height="454" alt="image" src="https://github.com/user-attachments/assets/0f79dcf1-936c-42f8-a8dd-4d43c83fdecb" />
+
+
 # TSP-Annealing
 
 C# Annealing algorithm for Travelling salesman problem (TSP) solving.
